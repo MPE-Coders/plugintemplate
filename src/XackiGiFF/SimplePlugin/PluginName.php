@@ -19,7 +19,7 @@
 
 declare(strict_types=1);
 
-namespace MPECoders\PluginTemplate;
+namespace XackiGiFF\SimplePlugin;
 
 use pocketmine\plugin\PluginBase;
 
