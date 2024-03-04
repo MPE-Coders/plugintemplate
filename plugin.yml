@@ -1,0 +1,11 @@
+---
+name: SimplePlugin
+version: 1.0.0
+main: MPECoders\PluginTemplate\PluginName
+api: 5.9.0
+src-namespace-prefix: MPECoders\PluginTemplate
+site: 'vk.com/mpe_coders'
+authors:
+  - MPE:Coders
+
+...
